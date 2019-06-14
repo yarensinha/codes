@@ -1,4 +1,4 @@
-package com.in28minutes.junit.helper;
+package com.saket.junit;
 
 public class StringHelper {
 	

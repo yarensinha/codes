@@ -1,9 +1,11 @@
-package com.in28minutes.junit.helper;
+package com.saket.junit;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.saket.junit.StringHelper;
 
 public class StringHelperTest {
 	

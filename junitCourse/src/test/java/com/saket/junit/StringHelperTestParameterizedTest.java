@@ -1,4 +1,4 @@
-package com.in28minutes.junit.helper;
+package com.saket.junit;
 
 import static org.junit.Assert.*;
 
@@ -9,6 +9,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import com.saket.junit.StringHelper;
 
 @RunWith(Parameterized.class)
 public class StringHelperTestParameterizedTest {
